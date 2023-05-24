@@ -1,7 +1,7 @@
 # Zammad Ticket Creator
 ## Description
 Zammad is an open-source, web-based help desk and customer support system. It provides a platform for managing and tracking customer inquiries, tickets, and interactions across various communication channels like email, phone, chat, and social media.
-Unfortunately there's no official JavaScript API client. Thus, we've programmed a small adapter to create tickets from our single page applications (e.g. React).
+Unfortunately there's no [official JavaScript](https://docs.zammad.org/en/latest/api/intro.html) API client. Thus, we've programmed a small adapter to create tickets from our single page applications (e.g. React).
 
 ## Usage
 ```javascript
