@@ -1,0 +1,20 @@
+{
+  "name": "zammad-ticket-creator",
+  "version": "1.0.0",
+  "description": "API to create tickets on your zammad instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.com"
+  },
+  "keywords": [
+    "zammad",
+    "tickets",
+    "api"
+  ],
+  "author": "relivnd",
+  "license": "ISC"
+}
